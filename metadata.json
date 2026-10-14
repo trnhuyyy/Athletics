@@ -1,0 +1,8 @@
+{
+  "name": "AEROSTRIKE Athletics | Cửa Hàng Thể Thao Cao Cấp",
+  "description": "Nền tảng thời trang thể thao cao cấp tích hợp thử đồ ảo AR, gợi ý phối đồ AI, đo size thông minh, theo dõi đơn hàng thực tế và quản trị bán hàng.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
